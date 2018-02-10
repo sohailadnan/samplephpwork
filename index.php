@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>I'm doing aws devops training<h1>
+<h1>Building First PHP application<h1>
 
 <?php
-echo "Version: final";
+echo "Version: 1.0";
 ?>
 
 </body>
