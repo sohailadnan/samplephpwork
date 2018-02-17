@@ -5,7 +5,7 @@
 <h1>Building First PHP application<h1>
 
 <?php
-echo "Version: 1.1";
+echo "Version: 1.2";
 ?>
 
 </body>
