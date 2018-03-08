@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>NEW PHP APPLICATION DEVELOPMENTh1>
+<h1>NEW PHP APPLICATION DEVELOPMENT</h1>
 
 <?php
-echo "Version: v0.1";
+echo "Version: v2.0";
 ?>
 
 </body>
