@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>Training on DevOps & CICD</h1>
+<h1>Developing PHP App</h1>
 
 <?php
-echo "Version: v2.0";
+echo "Version: final";
 ?>
 
 </body>
