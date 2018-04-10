@@ -5,7 +5,7 @@
 <h1>Developing PHP application</h1>
 
 <?php
-echo "Version: rev1.2";
+echo "Version: rev-2.0";
 ?>
 
 </body>
