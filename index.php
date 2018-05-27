@@ -5,7 +5,7 @@
 <h1>First DevOps Class</h1>
 
 <?php
-echo "Version: v1.1";
+echo "Version: v2.0";
 ?>
 
 </body>
