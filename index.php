@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Developing PHP projects</h1>
+<h1>DevOps First Class</h1>
 
 <?php
 echo "Version: final";
