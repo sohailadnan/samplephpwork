@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>Thanks you guys for attending</h1>
+<h1>ModiCare will be launched in india on sep 25th</h1>
 
 <?php
-echo "version :Rev Ver";
+echo "version :Ver v1.0";
 ?>
 
 </body>
