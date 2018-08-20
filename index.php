@@ -2,7 +2,7 @@ p<!
 <html>
 <body>
 
-<h1>Developing PHP Applicatiom</h1>
+<h1>DevOps 1st class, hope this works</h1>
 
 <?php
 echo "version :Rev Ver";
