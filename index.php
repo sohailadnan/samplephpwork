@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Jaychandra requesting you to kinldy complete your labs</h1>
+<h1>Shalini even your labs are due, kindly share at earliest</h1>
 
 <?php
 echo "version :Ver 1.0";
